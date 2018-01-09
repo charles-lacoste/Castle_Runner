@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 71bd4473206fdb841ba2f76936459aed
+timeCreated: 1479441665
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GabsNotSpinningOrb_0
+    21300002: GabsNotSpinningOrb_1
+    21300004: GabsNotSpinningOrb_2
+    21300006: GabsNotSpinningOrb_3
+    21300008: GabsNotSpinningOrb_4
+    21300010: GabsNotSpinningOrb_5
+    21300012: GabsNotSpinningOrb_6
+    21300014: GabsNotSpinningOrb_7
+    21300016: GabsNotSpinningOrb_8
+    21300018: GabsNotSpinningOrb_9
+    21300020: GabsNotSpinningOrb_10
+    21300022: GabsNotSpinningOrb_11
+    21300024: GabsNotSpinningOrb_12
+    21300026: GabsNotSpinningOrb_13
+    21300028: GabsNotSpinningOrb_14
+    21300030: GabsNotSpinningOrb_15
+    21300032: GabsNotSpinningOrb_16
+    21300034: GabsNotSpinningOrb_17
+    21300036: GabsNotSpinningOrb_18
+    21300038: GabsNotSpinningOrb_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 120
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 120
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 120
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 120
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 83
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 83
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 83
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 83
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 83
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 46
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 46
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 46
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 46
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 46
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 9
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 9
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 9
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 9
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GabsNotSpinningOrb_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 9
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: 97cb220bfb450904ea7ab2dee98e52c0
+timeCreated: 1479777217
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DeathBoss_0
+    21300002: DeathBoss_1
+    21300004: DeathBoss_2
+    21300006: DeathBoss_3
+    21300008: DeathBoss_4
+    21300010: DeathBoss_5
+    21300012: DeathBoss_6
+    21300014: DeathBoss_7
+    21300016: DeathBoss_8
+    21300018: DeathBoss_9
+    21300020: DeathBoss_10
+    21300022: DeathBoss_11
+    21300024: DeathBoss_12
+    21300026: DeathBoss_13
+    21300028: DeathBoss_14
+    21300030: DeathBoss_15
+    21300032: DeathBoss_16
+    21300034: DeathBoss_17
+    21300036: DeathBoss_18
+    21300038: DeathBoss_19
+    21300040: DeathBoss_20
+    21300042: DeathBoss_21
+    21300044: DeathBoss_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeathBoss_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1700
+        width: 364
+        height: 250
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1702
+        width: 364
+        height: 246
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_2
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1702
+        width: 366
+        height: 246
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_3
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1702
+        width: 366
+        height: 246
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_4
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1702
+        width: 366
+        height: 246
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1414
+        width: 364
+        height: 246
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1414
+        width: 366
+        height: 246
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_7
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1414
+        width: 366
+        height: 246
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_8
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1414
+        width: 368
+        height: 246
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_9
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1414
+        width: 368
+        height: 246
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1123
+        width: 370
+        height: 246
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_11
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1123
+        width: 372
+        height: 246
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_12
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1123
+        width: 370
+        height: 248
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_13
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1123
+        width: 370
+        height: 248
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_14
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1123
+        width: 370
+        height: 248
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 826
+        width: 370
+        height: 248
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_16
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 826
+        width: 370
+        height: 248
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_17
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 826
+        width: 370
+        height: 248
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_18
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 826
+        width: 366
+        height: 248
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_19
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 826
+        width: 366
+        height: 248
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 538
+        width: 370
+        height: 250
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_21
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 538
+        width: 368
+        height: 252
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DeathBoss_22
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 540
+        width: 364
+        height: 250
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

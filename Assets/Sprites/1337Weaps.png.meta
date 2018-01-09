@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: f665adbbc7c4cba46b101bf9901b5ce9
+timeCreated: 1479191124
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pistol-Right
+    21300002: Deagle-Right
+    21300004: SawedOff-Right
+    21300006: Shotty-Right
+    21300008: Pistol-Down
+    21300010: Deagle--Up
+    21300012: SawedOff-Up
+    21300014: Shotty-Up
+    21300016: Bazooka-Right
+    21300018: Pistol-Left
+    21300020: Deagle-Left
+    21300022: SawedOff-Left
+    21300024: Shotty-Left
+    21300026: Bazooka-Up
+    21300028: Pistol-Up
+    21300030: Deagle-Up
+    21300032: SawedOff-Down
+    21300034: Shotty-Down
+    21300036: AR-Right
+    21300038: Bazooka-Left
+    21300040: AR-Up
+    21300042: Gattling-Right
+    21300044: Gattling-Left
+    21300046: Bazooka-Down
+    21300048: AR-Left
+    21300050: Gattling-Up
+    21300052: Gattling-Down
+    21300054: AR-Down
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pistol-Right
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 545
+        width: 46
+        height: 22
+      alignment: 9
+      pivot: {x: 0.23540215, y: 0.5000028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Deagle-Right
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 534
+        width: 64
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25795317, y: 0.48616943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SawedOff-Right
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 556
+        width: 98
+        height: 19
+      alignment: 9
+      pivot: {x: 0.30805627, y: 0.61647755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shotty-Right
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 543
+        width: 89
+        height: 37
+      alignment: 9
+      pivot: {x: 0.15810403, y: 0.50000167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pistol-Down
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 481
+        width: 9
+        height: 42
+      alignment: 9
+      pivot: {x: 0.56147426, y: 0.85566205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Deagle--Up
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 456
+        width: 15
+        height: 65
+      alignment: 9
+      pivot: {x: 0.500001, y: 0.20209727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SawedOff-Up
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 443
+        width: 12
+        height: 98
+      alignment: 9
+      pivot: {x: 0.54610443, y: 0.17821206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shotty-Up
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 452
+        width: 16
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5345783, y: 0.15848833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bazooka-Right
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 512
+        width: 147
+        height: 37
+      alignment: 9
+      pivot: {x: 0.2704202, y: 0.48504803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pistol-Left
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 419
+        width: 46
+        height: 22
+      alignment: 9
+      pivot: {x: 0.80067974, y: 0.55029714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Deagle-Left
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 404
+        width: 65
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7468351, y: 0.5276634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SawedOff-Left
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 403
+        width: 98
+        height: 18
+      alignment: 9
+      pivot: {x: 0.69194466, y: 0.4692671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shotty-Left
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 396
+        width: 89
+        height: 37
+      alignment: 9
+      pivot: {x: 0.8294654, y: 0.48504886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bazooka-Up
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 347
+        width: 34
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16503906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pistol-Up
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 356
+        width: 9
+        height: 42
+      alignment: 9
+      pivot: {x: 0.50000167, y: 0.07847668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Deagle-Up
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 320
+        width: 15
+        height: 65
+      alignment: 9
+      pivot: {x: 0.53688455, y: 0.77237034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SawedOff-Down
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 291
+        width: 12
+        height: 98
+      alignment: 9
+      pivot: {x: 0.4539032, y: 0.8104989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shotty-Down
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 301
+        width: 16
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8415128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR-Right
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 289
+        width: 98
+        height: 37
+      alignment: 9
+      pivot: {x: 0.26289278, y: 0.5299064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bazooka-Left
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 279
+        width: 147
+        height: 37
+      alignment: 9
+      pivot: {x: 0.72205335, y: 0.47009608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR-Up
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 180
+        width: 13
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5000012, y: 0.16805002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gattling-Right
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 217
+        width: 147
+        height: 49
+      alignment: 9
+      pivot: {x: 0.16880259, y: 0.4096739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gattling-Left
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 217
+        width: 147
+        height: 49
+      alignment: 9
+      pivot: {x: 0.92152435, y: 0.45483708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bazooka-Down
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 109
+        width: 34
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7973253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR-Left
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 130
+        width: 98
+        height: 36
+      alignment: 9
+      pivot: {x: 0.72581667, y: 0.4692654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gattling-Up
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 34
+        width: 32
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5345793, y: 0.17186555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gattling-Down
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 39
+        width: 32
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5172901, y: 0.8188875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AR-Down
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 22
+        width: 13
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5000006, y: 0.8028321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

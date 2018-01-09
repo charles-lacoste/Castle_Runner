@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: dcb1e14a8f5eee44c9b21da0f1df76e1
+timeCreated: 1479842209
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boss2Sprites_0
+    21300002: Boss2Sprites_1
+    21300004: Boss2Sprites_2
+    21300006: Boss2Sprites_3
+    21300008: Boss2Sprites_4
+    21300010: Boss2Sprites_5
+    21300012: Boss2Sprites_6
+    21300014: Boss2Sprites_18
+    21300016: Boss2Sprites_19
+    21300018: Boss2Sprites_20
+    21300020: Boss2Sprites_21
+    21300022: Boss2Sprites_22
+    21300024: Boss2Sprites_23
+    21300026: Boss2Sprites_24
+    21300028: Boss2Sprites_25
+    21300030: Boss2Sprites_26
+    21300032: Boss2Sprites_27
+    21300034: Boss2Sprites_28
+    21300036: Boss2Sprites_29
+    21300038: Boss2Sprites_30
+    21300040: Boss2Sprites_31
+    21300042: Boss2Sprites_32
+    21300044: Boss2Sprites_33
+    21300046: Boss2Sprites_34
+    21300048: Boss2Sprites_35
+    21300050: Boss2Sprites_36
+    21300052: Boss2Sprites_37
+    21300054: Boss2Sprites_38
+    21300056: Boss2Sprites_39
+    21300058: Boss2Sprites_40
+    21300060: Boss2Sprites_41
+    21300062: Boss2Sprites_42
+    21300064: Boss2Sprites_43
+    21300066: Boss2Sprites_44
+    21300068: Boss2Sprites_45
+    21300070: Boss2Sprites_46
+    21300072: Boss2Sprites_47
+    21300074: Boss2Sprites_48
+    21300076: Boss2Sprites_49
+    21300078: Boss2Sprites_50
+    21300080: Boss2Sprites_51
+    21300082: Boss2Sprites_52
+    21300084: Boss2Sprites_53
+    21300086: Boss2Sprites_54
+    21300088: Boss2Sprites_55
+    21300090: Boss2Sprites_56
+    21300092: Boss2Sprites_57
+    21300094: Boss2Sprites_58
+    21300096: Boss2Sprites_59
+    21300098: Boss2Sprites_60
+    21300100: Boss2Sprites_61
+    21300102: Boss2Sprites_62
+    21300104: Boss2Sprites_63
+    21300106: Boss2Sprites_64
+    21300108: Boss2Sprites_65
+    21300110: Boss2Sprites_66
+    21300112: Boss2Sprites_67
+    21300114: Boss2Sprites_68
+    21300116: Boss2Sprites_73
+    21300118: Boss2Sprites_74
+    21300120: Boss2Sprites_75
+    21300122: Boss2Sprites_76
+    21300124: Boss2Sprites_77
+    21300126: Boss2Sprites_78
+    21300128: Boss2Sprites_79
+    21300130: Boss2Sprites_80
+    21300132: Boss2Sprites_81
+    21300134: Boss2Sprites_82
+    21300136: Boss2Sprites_86
+    21300138: Boss2Sprites_88
+    21300140: Boss2Sprites_89
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss2Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1241
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1237
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1237
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1236
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1233
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1231
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1229
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1152
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1148
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1148
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1144
+        width: 77
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1137
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1139
+        width: 98
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1057
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1052
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1049
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1043
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1033
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1025
+        width: 55
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1023
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 953
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 952
+        width: 105
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 963
+        width: 121
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 964
+        width: 125
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 943
+        width: 126
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 927
+        width: 126
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 916
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 910
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 909
+        width: 55
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 911
+        width: 61
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 814
+        width: 90
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 824
+        width: 110
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 833
+        width: 131
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 833
+        width: 119
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 818
+        width: 104
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 819
+        width: 137
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 813
+        width: 135
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 817
+        width: 135
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 813
+        width: 136
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 695
+        width: 86
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5145463, y: 0.26676708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 692
+        width: 52
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25390625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 690
+        width: 59
+        height: 122
+      alignment: 9
+      pivot: {x: 0.43639103, y: 0.24365234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 689
+        width: 62
+        height: 122
+      alignment: 9
+      pivot: {x: 0.52017754, y: 0.22314453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 688
+        width: 53
+        height: 122
+      alignment: 9
+      pivot: {x: 0.54720724, y: 0.28466797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 675
+        width: 68
+        height: 122
+      alignment: 9
+      pivot: {x: 0.4816033, y: 0.29492188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 672
+        width: 74
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23339844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 670
+        width: 65
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5384916, y: 0.24365234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 667
+        width: 62
+        height: 122
+      alignment: 9
+      pivot: {x: 0.500001, y: 0.20263621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 669
+        width: 59
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20263672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 663
+        width: 58
+        height: 122
+      alignment: 9
+      pivot: {x: 0.47843143, y: 0.21289062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 663
+        width: 60
+        height: 122
+      alignment: 9
+      pivot: {x: 0.47915038, y: 0.22314453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 661
+        width: 60
+        height: 122
+      alignment: 9
+      pivot: {x: 0.47915038, y: 0.23339844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 521
+        width: 78
+        height: 111
+      alignment: 9
+      pivot: {x: 0.4999998, y: 0.27406764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 521
+        width: 75
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5175987, y: 0.26217678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 520
+        width: 72
+        height: 111
+      alignment: 9
+      pivot: {x: 0.48166764, y: 0.27406764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 519
+        width: 72
+        height: 111
+      alignment: 9
+      pivot: {x: 0.51833177, y: 0.27406764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 516
+        width: 72
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2740682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 513
+        width: 72
+        height: 111
+      alignment: 9
+      pivot: {x: 0.51833177, y: 0.26217625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 404
+        width: 72
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5366644, y: 0.22650284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 405
+        width: 72
+        height: 111
+      alignment: 9
+      pivot: {x: 0.51833194, y: 0.2502854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 405
+        width: 72
+        height: 111
+      alignment: 9
+      pivot: {x: 0.51833194, y: 0.2502854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 402
+        width: 72
+        height: 111
+      alignment: 9
+      pivot: {x: 0.49999958, y: 0.26217625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 403
+        width: 72
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5183322, y: 0.25028592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 402
+        width: 78
+        height: 111
+      alignment: 9
+      pivot: {x: 0.48307762, y: 0.25028512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 292
+        width: 73
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5180811, y: 0.23839453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 144
+        width: 72
+        height: 108
+      alignment: 9
+      pivot: {x: 0.51833224, y: 0.26779202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 144
+        width: 72
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24570332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 147
+        width: 64
+        height: 95
+      alignment: 9
+      pivot: {x: 0.47937584, y: 0.2638039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 224
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 146
+        width: 60
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38686392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss2Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 144
+        width: 60
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3716755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

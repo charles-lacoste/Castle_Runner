@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: f72efda2600335642bb4962c63ffab81
+timeCreated: 1480037754
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StacheSpriteSheet_0
+    21300002: StacheSpriteSheet_1
+    21300004: StacheSpriteSheet_2
+    21300006: StacheSpriteSheet_3
+    21300008: StacheSpriteSheet_4
+    21300010: StacheSpriteSheet_5
+    21300012: StacheSpriteSheet_6
+    21300014: StacheSpriteSheet_7
+    21300016: StacheSpriteSheet_8
+    21300018: StacheSpriteSheet_9
+    21300020: StacheSpriteSheet_10
+    21300022: StacheSpriteSheet_11
+    21300024: StacheSpriteSheet_12
+    21300026: StacheSpriteSheet_13
+    21300028: StacheSpriteSheet_14
+    21300030: StacheSpriteSheet_15
+    21300032: StacheSpriteSheet_16
+    21300034: StacheSpriteSheet_17
+    21300036: StacheSpriteSheet_18
+    21300038: StacheSpriteSheet_19
+    21300040: StacheSpriteSheet_20
+    21300042: StacheSpriteSheet_21
+    21300044: StacheSpriteSheet_22
+    21300046: StacheSpriteSheet_23
+    21300048: StacheSpriteSheet_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StacheSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 57
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 57
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 56
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 55
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 54
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 55
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 55
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 55
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 55
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 55
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 56
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 56
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 56
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 56
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 25
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 23
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 23
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 24
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 23
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 24
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 25
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 25
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 23
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 23
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StacheSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 23
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

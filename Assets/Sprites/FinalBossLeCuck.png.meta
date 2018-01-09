@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 343763261926d1b4e8e4011b0cc533ab
+timeCreated: 1480220806
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FinalBossLeCuck_0
+    21300002: FinalBossLeCuck_1
+    21300004: FinalBossLeCuck_2
+    21300006: FinalBossLeCuck_3
+    21300008: FinalBossLeCuck_4
+    21300010: FinalBossLeCuck_5
+    21300012: FinalBossLeCuck_6
+    21300014: FinalBossLeCuck_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FinalBossLeCuck_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1714
+        width: 877
+        height: 298
+      alignment: 9
+      pivot: {x: 0.50740755, y: 0.563529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FinalBossLeCuck_1
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1705
+        width: 827
+        height: 274
+      alignment: 9
+      pivot: {x: 0.49943438, y: 0.5275206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FinalBossLeCuck_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1375
+        width: 877
+        height: 284
+      alignment: 9
+      pivot: {x: 0.4967077, y: 0.53304106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FinalBossLeCuck_3
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1269
+        width: 681
+        height: 339
+      alignment: 9
+      pivot: {x: 0.4998611, y: 0.4314343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FinalBossLeCuck_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 999
+        width: 877
+        height: 284
+      alignment: 9
+      pivot: {x: 0.500823, y: 0.5457493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FinalBossLeCuck_5
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 734
+        width: 422
+        height: 426
+      alignment: 9
+      pivot: {x: 0.5025068, y: 0.3457285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FinalBossLeCuck_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 599
+        width: 877
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5013007, y: 0.54397774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FinalBossLeCuck_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 167
+        width: 877
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5001323, y: 0.5399368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

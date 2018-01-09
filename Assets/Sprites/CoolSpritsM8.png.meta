@@ -1,0 +1,759 @@
+fileFormatVersion: 2
+guid: f9e16ad5aaf42734c882822656ff1178
+timeCreated: 1479782703
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CoolSpritsM8_0
+    21300002: CoolSpritsM8_1
+    21300004: CoolSpritsM8_2
+    21300006: CoolSpritsM8_3
+    21300008: CoolSpritsM8_4
+    21300010: CoolSpritsM8_5
+    21300012: CoolSpritsM8_6
+    21300014: CoolSpritsM8_7
+    21300016: CoolSpritsM8_8
+    21300018: CoolSpritsM8_9
+    21300020: CoolSpritsM8_10
+    21300022: CoolSpritsM8_11
+    21300024: CoolSpritsM8_12
+    21300026: CoolSpritsM8_13
+    21300028: CoolSpritsM8_14
+    21300030: CoolSpritsM8_15
+    21300032: CoolSpritsM8_16
+    21300034: CoolSpritsM8_17
+    21300036: CoolSpritsM8_18
+    21300038: CoolSpritsM8_19
+    21300040: CoolSpritsM8_20
+    21300042: CoolSpritsM8_21
+    21300044: CoolSpritsM8_22
+    21300046: CoolSpritsM8_23
+    21300048: CoolSpritsM8_24
+    21300050: CoolSpritsM8_25
+    21300052: CoolSpritsM8_26
+    21300054: CoolSpritsM8_27
+    21300056: CoolSpritsM8_28
+    21300058: CoolSpritsM8_29
+    21300060: CoolSpritsM8_30
+    21300062: CoolSpritsM8_31
+    21300064: CoolSpritsM8_32
+    21300066: CoolSpritsM8_33
+    21300068: CoolSpritsM8_34
+    21300070: CoolSpritsM8_35
+    21300072: CoolSpritsM8_36
+    21300074: CoolSpritsM8_37
+    21300076: CoolSpritsM8_38
+    21300078: CoolSpritsM8_39
+    21300080: CoolSpritsM8_40
+    21300082: CoolSpritsM8_41
+    21300084: CoolSpritsM8_42
+    21300086: CoolSpritsM8_43
+    21300088: CoolSpritsM8_44
+    21300090: CoolSpritsM8_45
+    21300092: CoolSpritsM8_46
+    21300094: CoolSpritsM8_47
+    21300096: CoolSpritsM8_48
+    21300098: CoolSpritsM8_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CoolSpritsM8_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 390
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 390
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 390
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 390
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 386
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 386
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 386
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 386
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 386
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 386
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_10
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 386
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 351
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 351
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 352
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 352
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 353
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 353
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 353
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 353
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_19
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 353
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_20
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 353
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_21
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 353
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 265
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 265
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 264
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 255
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 255
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_27
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 255
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_28
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 254
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_29
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 254
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_30
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 254
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_31
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 186
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 186
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 186
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 167
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_35
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 167
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_36
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 167
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_37
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 163
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_38
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 163
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_39
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 163
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 83
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 83
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_42
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 83
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 83
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_44
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 83
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 29
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_46
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 29
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_47
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 29
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_48
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 29
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoolSpritsM8_49
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 29
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
